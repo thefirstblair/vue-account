@@ -1,0 +1,12 @@
+{
+    "records":[
+        {"type":"Income","current":55000,"detail":"ขอเงินแม่ค่าทำดั้ง","date":"2021-07-20"},
+        {"type":"Expense","current":1200,"detail":"ค่ามัดจำทำดั้ง","date":"2021-07-22"},
+        {"type":"Expense","current":30000,"detail":"ค่าเติมเกม","date":"2021-07-24"}
+    ],
+    "total":{
+        "all":13800,
+        "income":55000,
+        "outcome":31200
+    }
+}
